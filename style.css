@@ -1,5 +1,17 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
+body {
+  min-height: 100vh;
+  background-color: #f4f6f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container{
+    background-color: #991818;
+   padding: 25px 30px;
+   border-radius: 10px;
+} 
